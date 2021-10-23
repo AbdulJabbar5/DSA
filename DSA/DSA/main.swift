@@ -7,5 +7,7 @@
 
 import Foundation
 
-print("Hello, World!")
+print("This is Abdul's practice ground 👨🏻‍💻")
 
+// Test result
+print("Powered of integer is \(powerOf(integer: 8, with: 2))")
